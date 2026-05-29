@@ -1,5 +1,5 @@
-Project Name: FAQ Chatbot
- 
+ Project Name: FAQ Chatbot 
+
 Description:
 This is a simple FAQ Chatbot made using Python and Flask.
 It answers user questions by matching them with pre-defined FAQ data using NLP (Natural Language Processing).
